@@ -19,14 +19,14 @@ Staatsangehörigkeit: &emsp; ungarisch
 10/2018 – 09/2025 &emsp; **Physikstudium**  
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Technische Universität Berlin  
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Zus. Module:  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - **Python für Ing. (Python)**  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - **Python for ML (Python)**  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - **CoMa 1-2 (Python)**  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - CFD1-2-3-e (MATLAB)  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - Numerische Mathematik(MATLAB)  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - Algorithmen und Datenstrukturen (Java)  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - Grundlagen wissenschaftlicher Programmierung (C++)  
-12/2022 - 12/2024 &emsp; **42 Berlin Coding School**, Fortwährende Weiterbildung **(Linux, C)**  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• **Python für Ing. (Python)**  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• **Python for ML (Python)**  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• **CoMa 1-2 (Python)**  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• CFD1-2-3-e (MATLAB)  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• Numerische Mathematik (MATLAB)  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• Algorithmen und Datenstrukturen (Java)  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;• Grundlagen wissenschaftlicher Programmierung (C++)  
+12/2022 – 12/2024 &emsp; **42 Berlin Coding School**, Fortwährende Weiterbildung **(Linux, C)**  
 09/2004 – 02/2011 &emsp; Maschinenbaustudium  
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Technische und Wirtschaftswissenschaftliche Universität Budapest  
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;**Diplom-Ingenieur für Maschinenbau**  
@@ -35,11 +35,11 @@ Staatsangehörigkeit: &emsp; ungarisch
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Vertiefungsfächer: **Mathematik und Physik**
 
 ## KENNTNISSE UND FÄHIGKEITEN 
-Programmieren*: &emsp; &emsp;**Python, C, MATLAB,** C++, Java, Linux  
-CAD: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Catia V5, SolidWorks, Pro/Engineer  
-Soft Skills: &emsp; &emsp; &emsp; &nbsp; &emsp;**Flexibilität, Problemlösungsfähigkeit, Geduld, Kritikfähigkeit, Mentorenschaft**
+Programmieren*: &emsp; &ensp; **Python, C, MATLAB,** C++, Java, Linux  
+CAD: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Catia V5, SolidWorks, Pro/Engineer  
+Soft Skills: &emsp; &emsp; &emsp; &nbsp; &ensp; **Flexibilität, Problemlösungsfähigkeit, Geduld, Kritikfähigkeit, Mentorenschaft**
 
 ## SPRACHKENNTISSE 
-Ungarisch: &emsp; &nbsp; &emsp; &emsp; &ensp; Muttersprache  
-Deutsch: &emsp; &emsp; &emsp; &emsp; &ensp; verhandlungssicher (TestDaF C1 Prüfung)  
-Englisch: &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;Upper-Intermediate
+Ungarisch: &emsp; &nbsp; &emsp; &ensp; &ensp; Muttersprache  
+Deutsch: &emsp; &emsp; &emsp; &emsp; &ensp;verhandlungssicher (TestDaF C1 Prüfung)  
+Englisch: &emsp; &emsp; &emsp; &emsp; &ensp;Upper-Intermediate
